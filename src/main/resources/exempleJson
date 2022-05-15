@@ -1,0 +1,13 @@
+{"patientId":0,
+"fullName":"asf",
+"doctor": {
+    "depertman": "string",
+    "doctorId": 1,
+    "fullname": "string"
+}}
+
+{"doctorId":0,
+"fullname":"easd Ongun",
+"depertman":"dahiliye"
+
+}
